@@ -1,3 +1,5 @@
+[![Tests](https://github.com/oyetzmedic/adb-cite/actions/workflows/tests.yml/badge.svg)](https://github.com/oyetzmedic/adb-cite/actions/workflows/tests.yml)
+
 # ADB-Cite: source-attributed retrieval over Approved Document B
 
 A small, self-directed prototype. You ask a question about fire-safety guidance; the tool finds the most relevant passages in Approved Document B and answers only with sentences quoted from the document, each with its file, page and paragraph. If nothing relevant is found, it says so instead of answering.
