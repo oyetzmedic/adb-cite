@@ -1,0 +1,36 @@
+id,question,source,gold_pages,answerable
+q01,What is the maximum travel distance from a flat entrance door to a storey exit or stair lobby when escape is in one direction?,AD_B1_2026.pdf,38,yes
+q02,What unobstructed openable area should an emergency escape window have?,AD_B1_2026.pdf,27,yes
+q03,What minimum height and minimum width should the openable area of an emergency escape window have?,AD_B1_2026.pdf,27,yes
+q04,What is the maximum height of the bottom of the openable area of an emergency escape window above the floor?,AD_B1_2026.pdf,27,yes
+q05,Where should people escaping through an emergency escape window or external door be able to reach?,AD_B1_2026.pdf,27,yes
+q06,What is the maximum travel distance from a flat entrance door to a storey exit or stair lobby when escape is available in more than one direction?,AD_B1_2026.pdf,38,yes
+q07,What minimum free area should a high-level openable vent provided for fire and rescue service use have?,AD_B1_2026.pdf,41,yes
+q08,What minimum number of air changes per hour should a mechanical smoke extraction system provide for basement storeys?,AD_B2_2026.pdf,136,yes
+q09,For how long should a mechanical smoke extraction system be capable of handling gas temperatures of 300°C?,AD_B2_2026.pdf,136,yes
+q10,How should doors on escape routes be arranged to avoid undue delay to people escaping?,AD_B2_2026.pdf,59,yes
+q11,Do the door fastenings provisions in paragraphs 3.94 to 3.101 apply to flat entrance doors?,AD_B1_2026.pdf,51,yes
+q12,What should doors on escape routes generally be fitted with if they have fastenings?,AD_B1_2026.pdf,51,yes
+q13,Should emergency escape windows be capable of remaining open without being held?,AD_B1_2026.pdf,32,yes
+q14,May locks and opening stays be fitted to emergency escape windows?,AD_B1_2026.pdf,32,yes
+q15,If a glazed element meets both integrity and insulation performance is its use or amount of glass restricted by Approved Document B?,AD_B2_2026.pdf,59,yes
+q16,Where should a single openable vent for fire and rescue service use be located if one vent is provided at the head of the stair?,AD_B1_2026.pdf,41,yes
+q17,If smoke control is provided in the lobby of a small single stair building to what maximum travel distance can the route be increased?,AD_B1_2026.pdf,42,yes
+q18,What additional guidance should glazed elements comply with where necessary?,AD_B2_2026.pdf,59,yes
+q19,Which types of rooms are permitted as inner rooms?,AD_B1_2026.pdf,32,yes
+q20,Are car parks normally expected to be fitted with sprinklers?,AD_B1_2026.pdf,122,yes
+q21,If basement storeys are fitted with a sprinkler system may a mechanical smoke extraction system be provided instead of natural venting?,AD_B1_2026.pdf,122,yes
+q22,If sprinklers are installed in basement storeys for mechanical smoke extraction purposes do the other storeys also need sprinklers?,AD_B1_2026.pdf,122,yes
+q23,How many air changes per hour should a mechanical smoke extraction system provide in basement storeys?,AD_B1_2026.pdf,122,yes
+q24,For how long should a basement mechanical smoke extraction system handle gas temperatures of 300°C?,AD_B1_2026.pdf,122,yes
+q25,Is a part of an external wall with less than the required fire resistance treated as an unprotected area?,AD_B1_2026.pdf,134,yes
+q26,When can material attached or applied to an external wall cause that part of the wall to be classed as an unprotected area?,AD_B1_2026.pdf,134,yes
+q27,Are windows doors and other openings generally classed as unprotected areas?,AD_B1_2026.pdf,134,yes
+q28,Are windows designed and glazed to provide the necessary fire resistance and which are not openable treated as unprotected areas?,AD_B1_2026.pdf,134,yes
+q29,What should generally be provided in mixed use buildings from storeys used for residential or assembly and recreation purposes?,AD_B1_2026.pdf,31,yes
+q30,Which purpose groups are identified in the mixed use building guidance for residential or assembly and recreation uses?,AD_B1_2026.pdf,31,yes
+q31,What is the recommended daily water intake for an adult?,,,no
+q32,How many players are on a football team?,,,no
+q33,What is the speed limit on a UK motorway?,,,no
+q34,What temperature should chicken be cooked to?,,,no
+q35,What is the current Bank of England interest rate?,,,no
